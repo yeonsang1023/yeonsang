@@ -154,7 +154,7 @@
    
    2) 매크로 이름을 yeonsang 라고 짓고 싶으면 let @yeonsang='
    
-   3) insert모드에서 Ctrl-R Ctrl-R b를 누르면 매크로 b의 내용물이 입력된다.
+   3) insert모드에서 Ctrl-R Ctrl-R b를 누르면 매크로 yeonsang의 내용물이 입력된다.
 
    ```c
    ex) 3회 반복 실행 ->3qA
