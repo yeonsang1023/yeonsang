@@ -137,6 +137,16 @@
    ```c
    ex) 3회 반복 실행 ->3qA
    ```
+   
+---
+
+  * **사용 예시**
+  ```c
+  let @yeonsang='wyw$a = #(^M    [^[pbg~w$a, "^[pa"],^M#^[pa^M);^[0xx$'
+  let @badwars='0yypi#^[@wa^M}^[kkkkk$a^M{^[j4>>k6>>6>>'
+  let @hypixel='dwdwyypki   case ^[wg~w$a :^[j>>>>$a( c, ind );^Mbreak;^[jdd.....0'
+  ```
+   
 ---
 ---
 
