@@ -27,9 +27,9 @@
   |b|Batch 모드로 작동|
   |1|CPU Core별로 사용량 보여줌|
   
-  ```c
+ 
   [top](https://zzsza.github.io/development/2018/07/18/linux-top/)
-  ```
+  
   
  ---
  
@@ -45,9 +45,9 @@
  |-f|옵션은 프로세스에 대한 자세한 정보를 출력한다.(PPID, UID 확인 가능)|
  |-u|[username] 옵션은 특정 자용자에 대한 프로세스의 정보를 출력한다|
  
- ```c
+ 
  [ps](https://tigris-data-science.tistory.com/entry/Linux-ps-%EB%AA%85%EB%A0%B9%EC%96%B4)
- ```
+ 
  
  ---
  
@@ -59,9 +59,9 @@
   
   내부적으로는 프로세스에 시그널을 보내 원하는 작업을 하게 하는 명령어
  
-  ```c
+  
   [kill](https://sisiblog.tistory.com/209)
-  ```
+  
   
   ---
   
@@ -84,9 +84,9 @@
  |-n|프로세스 그룹 중에 대표 프로세스 ID를 출력|
  |-p|각 프로세스 ID에 대해 한 행씩 출력|
  
- ```c
+ 
  [jobs](https://hbase.tistory.com/265)
- ```
+ 
  
  ---
  
@@ -125,9 +125,9 @@
   
   2) 기록이 끝났으면 다시 중립모드에서 q를 눌러준다.
   
-  ```c
+  
   [매크로](https://forcecore.tistory.com/1255)
-  ```
+  
   
   ---
   
