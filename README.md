@@ -104,11 +104,11 @@
   * **설명 : 백그라운드로 yes 프로세스가 계속적으로 /dev/null에 ‘y’들을 보낼 수 있다.**
            **이 프로세스의 상태를 검사하기 위해서는 셀 명령인 ‘jobs’ 을 사용하면 된다.**
           
-  ```c
-  /home/larry# jobs
-  [1]+ Running yes >/dev/null &
-  /home/larry#
-  ```
+    ```c
+    /home/larry# jobs
+    [1]+ Running yes >/dev/null &
+    /home/larry#
+    ```
   
  ---
  ---
