@@ -106,7 +106,7 @@
    /home/larry# yes > /dev/null
    ```
    
-   ** /dev/null 은 데이터의 “black hole” 로 작용한다. 어떠한 데이터도 이곳으로 보내면 나타나지 않는다.**
+   **/dev/null 은 데이터의 “black hole” 로 작용한다. 어떠한 데이터도 이곳으로 보내면 나타나지 않는다.**
  ---
  ---
  
