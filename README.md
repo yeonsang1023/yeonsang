@@ -140,7 +140,7 @@
    
 ---
 
-  * **사용 예시**
+  * **매크로 사용 예시**
   ```c
   let @yeonsang='wyw$a = #(^M    [^[pbg~w$a, "^[pa"],^M#^[pa^M);^[0xx$'
   let @badwars='0yypi#^[@wa^M}^[kkkkk$a^M{^[j4>>k6>>6>>'
