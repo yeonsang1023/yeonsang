@@ -92,7 +92,7 @@
  
  * **jobs 사용 예**
  
- * **설명 : 끊임없이 y를 출력하는 명령이다.**
+ * **설명 : 명령어 ‘yes’는 끊임없이 y를 출력하는 명령이다.**
  
    ```c
    /home/larry# yes
@@ -100,7 +100,7 @@
    y
    y
    ```
-   **설명 : y를 그만 출력할 때.**
+   **설명 : yes의 표준 출력을 /dev/null 로 리디렉트 시켰다. /dev/null 은 데이터의 “black hole” 로 작용한다**
    
    ```c
    /home/larry# yes > /dev/null
