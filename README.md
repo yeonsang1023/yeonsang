@@ -100,14 +100,16 @@
    y
    y
    ```
-  * **설명 : yes의 표준 출력을 /dev/null 로 리디렉트 시켰다. /dev/null 은 데이터의 “black hole” 로 작용한다**
    
-   ```c
-   /home/larry# yes > /dev/null
-   ```
-   
-   **“black hole”는 어떠한 데이터도 이곳으로 보내면 나타내지 않는다.**
-   
+  * **설명 : 백그라운드로 yes 프로세스가 계속적으로 /dev/null에 ‘y’들을 보낼 수 있다.**
+           **이 프로세스의 상태를 검사하기 위해서는 셀 명령인 ‘jobs’ 을 사용하면 된다.**
+          
+  ```c
+  /home/larry# jobs
+  [1]+ Running yes >/dev/null &
+  /home/larry#
+  ```
+  
  ---
  ---
  
